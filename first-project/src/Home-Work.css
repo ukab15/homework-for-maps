@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(122, 122, 163);
+    height: 100vh;
+    margin: 0; 
+    display: grid;
+    place-items: center; 
+}
+.App{
+border: 10px solid rgb(255, 255, 255);
+border-radius: 13px;
+padding: 10px;
+color: white;
+}
